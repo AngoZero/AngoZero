@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Djillali Adair — diseño y construyo software de punta a punta">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#FFFFFF" />
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" />
+      <stop offset="1" stop-color="#FFFFFF" />
+    </linearGradient>
+    <mask id="fademask">
+      <rect x="640" y="0" width="560" height="300" fill="url(#fade)" />
+    </mask>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0A1628" />
+  <rect x="640" y="0" width="560" height="300" fill="url(#dots)" opacity="0.10" mask="url(#fademask)" />
+  <rect x="0" y="296" width="1200" height="4" fill="#E8894A" />
+
+  <text x="1006" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3.2" fill="#E8894A">@ANGOZERO</text>
+
+  <rect x="80" y="62" width="58" height="6" fill="#E8894A" />
+
+  <text x="78" y="146" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1" fill="#F2F0EC">Djillali Adair</text>
+  <text x="80" y="190" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#93A7C4">Diseño y construyo software de punta a punta.</text>
+
+  <rect x="80" y="222" width="28" height="2" fill="#E8894A" />
+  <text x="122" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.6" fill="#93A7C4">PRODUCTO · BACKEND · FRONTEND · iOS · INFRAESTRUCTURA</text>
+</svg>
