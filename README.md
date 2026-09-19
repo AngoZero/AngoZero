@@ -100,22 +100,6 @@ tener que aprender.
 > **Diseño para el peor teléfono, no para el mío.**
 > Si funciona con señal mala en un rancho, funciona en cualquier lado.
 
-## Actividad
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AngoZero&locale=es&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=AngoZero&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de AngoZero" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AngoZero&hide_border=true&theme=tokyo-night&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngoZero&hide_border=true&theme=github-light&area=true" alt="Gráfico de actividad de AngoZero" />
-  </picture>
-</p>
-
 ---
 
 <details>
